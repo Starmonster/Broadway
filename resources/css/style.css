@@ -5,3 +5,47 @@ html {
 .banner {
   background-image: url("file://C:/cygwin64/home/Jim/Broadway/resources/pictures/the-flatiron-building.png");
 }
+
+.buttons {
+  font-family: Helvetica;
+  font-size: 18px;
+  color: white;
+}
+
+h1 {
+  font-family: Helvetica;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+h2 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+
+}
+
+h3 {
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-family: Helvetica;
+  font-size: 14px;
+
+}
+
+.alternate {
+  background-image: url("file://C:/cygwin64/home/Jim/Broadway/resources/pictures/the-flatiron-building.png");
+}
+
+.footer {
+  background-color: dimgray;
+  text-align: left;
+  font-size: 11px;
+  color: white;
+  font-family: Helvetica;
+}
